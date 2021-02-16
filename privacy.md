@@ -1,6 +1,6 @@
 <h1>Privacy Policy for WhatsApp Online Monitor</h1>
 
-<p>At Online Monitor, accessible from https://github.com/rizwansoaib/whatsapp-monitor, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Online Monitor and how we use it.</p>
+<p>At Online Monitor, accessible from https://github.com/DHANESHJOSHI/Whats-app-Monitor.git, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Online Monitor and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
