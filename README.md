@@ -6,9 +6,9 @@
  [![](https://img.shields.io/badge/Browser%20Extension-WhatsApp%20Online%20Monitor-green)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-online-monitor/)
      [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
               [![Gitter](https://badges.gitter.im/whatsapp-monitor/Chat.svg)](https://gitter.im/whatsapp-monitor/Chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![star this repo](http://githubbadges.com/star.svg?user=rizwansoaib&repo=whatsapp-monitor)](https://github.com/rizwansoaib/whatsapp-monitor)
-[![fork this repo](http://githubbadges.com/fork.svg?user=rizwansoaib&repo=whatsapp-monitor)](http://github.com/rizwansoaib/whatsapp-monitor/fork)
-[![HitCount](http://hits.dwyl.io/rizwansoaib/whatsapp-monitor.svg)](http://hits.dwyl.io/rizwansoaib/whatsapp-monitor)
+[![star this repo](http://githubbadges.com/star.svg?user=DHANESHJOSHI&repo=whatsapp-monitor)](https://github.com/DHANESHJOSHI/whatsapp-monitor)
+[![fork this repo](http://githubbadges.com/fork.svg?user=DHANESHJOSHI&repo=whatsapp-monitor)](http://github.com/DHANESHJOSHI/whatsapp-monitor/fork)
+[![HitCount](http://hits.dwyl.io/DHANESHJOSHI/whatsapp-monitor.svg)](http://hits.dwyl.io/DHANESHJOSHI/whatsapp-monitor)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
   
@@ -33,7 +33,7 @@
  <h4  align="center">Monitor Without Save Number 🔢 in Your WhatsApp</h4 >
   <h4  align="center">Concurrent Multiple Contacts 👪 Tracking </h4 >
 
- 
+
  
  
    <h4  align="center">
@@ -53,13 +53,13 @@
 
  
    <h4  align="center">
- <a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor%20Setup%201.1.0.exe"><img src="https://user-images.githubusercontent.com/29729380/95250295-8a36c200-0837-11eb-81ec-8e4aff1aca82.jpg" height="80" width="200"></a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor_1.1.0_amd64.deb"><img src="https://user-images.githubusercontent.com/29729380/95250584-f1547680-0837-11eb-98cc-1c8c832597d1.png" height="65" width="180"></a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor-1.1.0.AppImage"><img src="https://user-images.githubusercontent.com/29729380/95250774-2f519a80-0838-11eb-90fe-b8645858b471.png" height="65" width="180"></a>
+ <a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor%20Setup%201.1.0.exe"><img src="https://user-images.githubusercontent.com/29729380/95250295-8a36c200-0837-11eb-81ec-8e4aff1aca82.jpg" height="80" width="200"></a><a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor_1.1.0_amd64.deb"><img src="https://user-images.githubusercontent.com/29729380/95250584-f1547680-0837-11eb-98cc-1c8c832597d1.png" height="65" width="180"></a><a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor-1.1.0.AppImage"><img src="https://user-images.githubusercontent.com/29729380/95250774-2f519a80-0838-11eb-90fe-b8645858b471.png" height="65" width="180"></a>
  
  
  
  
  <br> 
- <a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor%20Setup%201.1.0.exe">Windows &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp         </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor_1.1.0_amd64.deb"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Debian Package  </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor-1.1.0.AppImage">  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       &nbsp&nbsp AppImage </a>
+ <a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor%20Setup%201.1.0.exe">Windows &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp         </a><a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor_1.1.0_amd64.deb"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Debian Package  </a><a href="https://github.com/DHANESHJOSHI/files/raw/master/WhatsApp-Monitor-1.1.0.AppImage">  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       &nbsp&nbsp AppImage </a>
 </h4>
 
 
@@ -103,26 +103,12 @@
    
   ### **Q2: Android extension how I will get notification?**
    #### **Ans: Use Notification Key and Subscribe any devices you will get Notification**
-   
-
-
-
-  
-  
-  
-  
-   
-<h2 align="center" > Contributions 🖐️ <h2>
-<h3 align="center" ><a href="https://github.com/rizwansoaib/whatsapp-monitor/issues"> Issues 🙋</a>
-and <a href ="https://github.com/rizwansoaib/whatsapp-monitor/pulls"> Pull requests 📃</a> are most welcome </h3>
-   
-   
+ 
 <h2 align="center" > <a href ="/LICENSE"> License 🧾 </a></h2>
 <h3 align="center" > This program is free 🆓  software:  you can redistribute it and/or modify 👨🏻‍💻  it under the terms of 
          the GNU General 📢 Public License with Credit Mention of all contributors of repo in Your Project as published by the Free Software Foundation 🌎 </h3>
 
 ![License](https://user-images.githubusercontent.com/29729380/83224186-69c86e00-a19a-11ea-9783-37969dbf78b7.png)
-
 
 <h2 align="center" > Legal ⚖️ </h2>
  <h3 align="center" >  This code 👨🏻‍💻  is in no way affiliated 🔗 with, authorized ✔️, maintained 🔀, sponsored 👓  or endorsed 👊 by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial code 🧑🏻‍💻 Use at your own risk </h3>
@@ -135,7 +121,7 @@ and <a href ="https://github.com/rizwansoaib/whatsapp-monitor/pulls"> Pull reque
    
 
 <h2 align="center"> Author 🧑‍💻 </h2>    
-<h3 align="center"> <a href="https://www.linkedin.com/in/rizwansoaib/">RIZWAN AHMAD</a> </h3>
+<h3 align="center"> <a href="https://www.linkedin.com/in/dhanesh-joshi/">Dhanesh Joshi</a> </h3>
 <h2 align="center"> If you 👍  the project, support us by 🌟 Thank You 🙏 </h2> 
 
 
